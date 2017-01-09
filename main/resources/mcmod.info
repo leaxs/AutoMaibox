@@ -1,0 +1,16 @@
+[
+{
+  "modid": "automailbox",
+  "name": "Auto-Mailbox",
+  "description": "To have a better control on your forestry's letter",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Leaxs"],
+  "credits": "Me....I, Uh....I Made This",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
